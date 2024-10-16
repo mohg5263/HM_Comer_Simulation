@@ -36,8 +36,8 @@ EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/project
 WorldInfo {
 }
 Viewpoint {
-  orientation 0.1582264043442759 -0.20213870669208206 -0.9664907388201577 4.9216696934022846
-  position -22.620346146818893 -76.27068244179907 33.72087519679465
+  orientation 0.3201618368672577 -0.3523207756271898 -0.879412570569263 4.679600339502932
+  position -8.125203416354415 -90.98035044567385 77.91181981101327
 }
 TexturedBackground {
 }
@@ -1269,161 +1269,162 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -5.4892490687130646e-05
+    translation 0 0 -7.685601335860603e-05
   }
 }
 Door {
-  hidden translation_5 1.1242797041003483 -0.8213606229570708 7.549516567451064e-15
-  hidden rotation_5 0 0 -1 1.5660362420614946
+  hidden translation_5 1.124198723919109 -0.8208479766127554 7.993605777301127e-15
+  hidden rotation_5 0 0 -1 1.5655100403596893
   translation 28.6001 5.06001 0
   rotation 0 0 1 1.5708
   name "door(9)"
   size 0.2 2 4.2
-  position -1.57
+  position -1.5694737982980824
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.1242797041003483 -0.8213606229570699 1.554312234475219e-14
-  hidden rotation_5 0 0 -1 1.5660362420631753
+  hidden translation_5 1.1241987239191076 -0.8208479766127474 1.5765166949677223e-14
+  hidden rotation_5 0 0 -1 1.5655100403613624
   translation 35.9701 5.06001 0
   rotation 0 0 1 1.5708
   name "door(10)"
   size 0.2 2 4.2
-  position -1.57
+  position -1.5694737982980753
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.124172408780673 -0.8206817639730957 1.2212453270876722e-14
-  hidden rotation_5 0 0 -1 1.565339423337766
+  hidden translation_5 1.1241719631328753 -0.8206789507363494 1.3322676295501878e-14
+  hidden rotation_5 0 0 -1 1.5653365355148672
   translation 20.9301 3.90002 0
   rotation 0 0 1 -3.1415853071795863
   name "door(5)"
   size 0.2 2 4.2
-  position -1.569303181277056
+  position -1.5693002934541571
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.1242797041003452 -0.8213606229570716 9.769962616701378e-15
-  hidden rotation_5 0 0 -1 1.566036242060374
+  hidden translation_5 1.124198723919107 -0.8208479766127615 7.993605777301127e-15
+  hidden rotation_5 0 0 -1 1.5655100403586864
   translation 6.63006 3.9 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(6)"
   size 0.2 2 4.2
-  position -1.57
+  position -1.5694737982980882
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.1242797041003467 -0.8213606229570714 1.2434497875801753e-14
-  hidden rotation_5 0 0 -1 1.5660362420605984
+  hidden translation_5 1.124198723919108 -0.820847976612759 1.2434497875801753e-14
+  hidden rotation_5 0 0 -1 1.565510040358796
   translation 11.0601 5.67 0
   rotation 0 0 1 1.5708
   name "door(24)"
   size 0.2 2 4.2
-  position -1.57
+  position -1.5694737982980858
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.15199003203495717 0.0048787821063184245 4.884981308350689e-15
-  hidden rotation_5 0 0 -0.9999999999999999 0.20682330672134955
+  hidden translation_5 0.15284817109556983 0.004817148888577427 5.551115123125783e-15
+  hidden rotation_5 0 0 -1 0.2079990844207035
   translation 6.21006 16.12 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(17)"
   size 0.1 1.5 4.2
-  position -0.2698584127512276
+  position -0.27103419045058225
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.0008878166581550856 -1.5327670155440565e-05 7.105427357601002e-15
-  hidden rotation_5 0 0 1 0.00015473727980257554
+  hidden translation_5 0.001740305780818241 0.00010070506927051248 5.773159728050814e-15
+  hidden rotation_5 0 0 -1 0.0010210404194537007
   translation -6.03994 16.12 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(20)"
   size 0.1 1.5 4.2
-  position -0.06288036874980005
+  position -0.06405614644915421
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.13712925501743395 0.005785480439949864 1.199040866595169e-14
-  hidden rotation_5 0 0 -1 0.18647603776408897
+  hidden translation_5 0.13798847042564466 0.005741319561660907 1.3322676295501878e-14
+  hidden rotation_5 0 0 -1 0.18765181546344334
   translation 6.21006 14.5 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(18)"
   size 0.1 1.5 4.2
-  position -0.24951114379400308
+  position -0.25068692149335736
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.07509731547018991 0.006304215975271088 1.865174681370263e-14
-  hidden rotation_5 0 0 -1 0.10167308783590559
+  hidden translation_5 0.07595718367405578 0.006332990492780688 1.9761969838327786e-14
+  hidden rotation_5 0 0 -1 0.10284886553525778
   translation -6.03994 14.5 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(21)"
   size 0.1 1.5 4.2
-  position -0.1647081938657966
+  position -0.1658839715651505
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.06636049137288443 0.005954433230505929 6.8833827526759706e-15
-  hidden rotation_5 0 0 -0.9999999999999999 0.08972346437040558
+  hidden translation_5 0.06721995434921899 0.00599348055036486 7.549516567451064e-15
+  hidden rotation_5 0 0 -1 0.09089924206976392
   translation 6.21006 12.95 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(19)"
   size 0.1 1.5 4.2
-  position -0.15275857040030633
+  position -0.1539343480996607
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.11593710146569475 0.0065545152597138445 1.0436096431476471e-14
-  hidden rotation_5 0 0 -1 0.15749417276215416
+  hidden translation_5 0.004238844925549282 0.00043490485281316715 1.0658141036401503e-14
+  hidden rotation_5 0 0 -1 0.004466025370384659
   translation -6.03994 12.95 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(22)"
   size 0.1 1.5 4.2
-  position -0.2205292787920315
+  position -0.06750113140037012
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.8182536405011488 -0.24956008384087502 9.325873406851315e-15
-  hidden rotation_5 0 0 -1 0.896036242060374
+  hidden translation_5 -0.009550268864676331 -0.0016708102059168617 9.769962616701378e-15
+  hidden rotation_5 0 0 1 0.010829962205594618
   translation 5.03006 10.97 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(16)"
   size 0.2 2 4.2
-  position -0.9
+  position 0.006866204265827929
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 -0.8135717778612088 -0.7643927140163805 1.687538997430238e-14
-  hidden rotation_5 0 0 1 1.2039637579385047
-  translation -4.61994 10.85 0
-  rotation 0 0 -1 -5.307179586466759e-06
+  hidden translation_5 1.1248020944660453 0.8247106902517283 0
+  hidden rotation_5 0 0 1 1.5694738237941945
+  translation -4.59994 10.92 0
+  rotation 0 0 1 -3.1415853071795863
   name "door(23)"
   size 0.2 2 4.2
-  position 1.2
+  position 1.5694738237941945
+  jointAtLeft FALSE
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
@@ -1439,7 +1440,7 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -5.4892490687130646e-05
+    translation 0 0 -7.685601335860603e-05
   }
 }
 Door {
@@ -1453,7 +1454,7 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -5.4892490687130646e-05
+    translation 0 0 -7.685601335860603e-05
   }
 }
 Door {
@@ -1467,29 +1468,29 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -7.687776801401647e-05
+    translation 0 0 -9.884129068549186e-05
   }
 }
 Door {
-  hidden translation_5 1.1242797041003465 -0.8213606229570715 7.105427357601002e-15
-  hidden rotation_5 0 0 -0.9999999999999999 1.5660362420612706
+  hidden translation_5 1.1241987239191058 -0.8208479766127474 6.661338147750939e-15
+  hidden rotation_5 0 0 -1 1.5655100403595688
   translation -16.3899 3.06 0
   rotation 0 0 -1 1.5708
   name "door(3)"
   size 0.2 2 4.2
-  position -1.57
+  position -1.5694737982980738
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.124881038178638 -0.8252236287001918 3.1086244689504383e-15
-  hidden rotation_5 0 0 -1 1.57
+  hidden translation_5 1.1248020906342506 -0.8247106653980675 3.1086244689504383e-15
+  hidden rotation_5 0 0 -1 1.5694737982980846
   translation -26.1999 4.58 0
   rotation 0 0 1 3.14159
   name "door(4)"
   size 0.2 2 4.2
-  position -1.57
+  position -1.5694737982980849
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
@@ -1505,41 +1506,43 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -5.4892490687130646e-05
+    translation 0 0 -7.685601335860603e-05
   }
 }
 Door {
-  hidden translation_5 1.1137470126130526 -0.7651960541853045 4.440892098500626e-16
-  hidden rotation_5 0 0 -1 1.5080918878303613
+  hidden translation_5 1.1141881722401754 -0.767232898388247 1.1102230246251565e-15
+  hidden rotation_5 0 0 -1 1.5102048670021955
   translation -22.6499 6.09 0
   rotation 0 0 -1 -1.5707953071795862
   name "door(7)"
   size 0.2 2 4.2
-  position -1.5
+  position -1.5021129791718342
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.1253531754667554 -0.8283296788477044 -2.220446049250313e-15
-  hidden rotation_5 0 0 1 4.710000000000342
-  translation -9.6099 6.09 0
+  hidden translation_5 0.002030238295879311 -0.00015688461971352652 2.220446049250313e-16
+  hidden rotation_5 0 0 1 0.0010565695593303152
+  translation -9.6099 6.11 0
   rotation 0 0 -1 -1.5707953071795862
   name "door(15)"
   size 0.2 2 4.2
-  position 3.14
+  position 0.0010565695592628078
+  jointAtLeft FALSE
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.1160161645410502 -0.775905123507916 -2.220446049250313e-16
-  hidden rotation_5 0 0 -1 1.519190616958663
+  hidden translation_5 1.1250387431548834 0.8262537417380018 2.220446049250313e-16
+  hidden rotation_5 0 0 1 1.5710565695592629
   translation -27.1399 9.01 0
   rotation 0 0 1 1.57
   name "door(14)"
   size 0.2 2 4.2
-  position -2.61
+  position 0.0010565695592628047
+  jointAtLeft FALSE
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
@@ -1555,7 +1558,7 @@ Door {
   wallAppearance RedBricks {
   }
   doorHandle DoorLever {
-    translation 0 0 -5.4892490687130646e-05
+    translation 0 0 -7.685601335860603e-05
   }
 }
 Door {
@@ -1569,7 +1572,7 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -5.4892490687130646e-05
+    translation 0 0 -7.685601335860603e-05
   }
 }
 StraightStairs {
@@ -2228,12 +2231,12 @@ Ramp30deg {
   name "ramp 30 degrees(2)"
 }
 Cabinet {
-  hidden position_6_0 1.9199396363602296e-05
-  hidden translation_7 -0.0027511964442429736 -1.9018702477419103e-05 0
-  hidden rotation_7 0 0 0.9999999999999999 0.013825548204925783
-  hidden position_10_0 -1.6322375501252787e-05
-  hidden translation_11 0.158722451482172 0.11067858907560338 0
-  hidden rotation_11 0 0 1 1.2178352388326636
+  hidden position_6_0 3.2005331803314726e-05
+  hidden translation_7 -0.002753744581617542 -1.9053950437220024e-05 0
+  hidden rotation_7 0 0 1 0.013838354140392582
+  hidden position_10_0 -2.720934739645867e-05
+  hidden translation_11 0.1587218148961583 0.11067686107220016 0
+  hidden rotation_11 0 0 1 1.2178243518607683
   hidden translation_15 -0.008916643309268354 0 0
   hidden translation_23 0.1179376927622068 0 0
   hidden translation_31 -0.008956511524617967 0 0
@@ -2242,12 +2245,12 @@ Cabinet {
   rotation 0 0 1 -1.5707953071795862
 }
 Cabinet {
-  hidden position_6_0 1.9199396363662117e-05
-  hidden translation_7 -0.00019362125680817303 -9.41939700960237e-08 0
-  hidden rotation_7 0 0 0.9999999999999999 0.0009729712931187554
-  hidden position_10_0 -1.6322375501480235e-05
-  hidden translation_11 0.1584335182512629 0.1099001662911458 0
-  hidden rotation_11 0 0 0.9999999999999999 1.2129264791328598
+  hidden position_6_0 3.200533180345974e-05
+  hidden translation_7 -0.00019616963673850497 -9.668978873111911e-08 0
+  hidden rotation_7 0 0 1 0.000985777228657095
+  hidden position_10_0 -2.7209347397032002e-05
+  hidden translation_11 0.1584328731905993 0.10989844143339664 0
+  hidden rotation_11 0 0 1 1.2129155921609633
   hidden translation_15 -0.009083566679636963 0 0
   hidden translation_23 0.1178850504094856 0 0
   hidden translation_31 -0.009009374188616156 0 0
@@ -2257,12 +2260,12 @@ Cabinet {
   name "cabinet(1)"
 }
 Cabinet {
-  hidden position_6_0 1.919939636361846e-05
-  hidden translation_7 -0.0005323655854080721 -7.120945320349126e-07 0
-  hidden rotation_7 0 0 1 0.002675207137184766
-  hidden position_10_0 -1.6322375501864883e-05
-  hidden translation_11 0.15831493498766835 0.10958403774091752 0
-  hidden rotation_11 0 0 1 1.2109303939616032
+  hidden position_6_0 3.200533180380483e-05
+  hidden translation_7 -0.0005349139573979109 -7.189282885677883e-07 0
+  hidden rotation_7 0 0 0.9999999999999999 0.002688013072524683
+  hidden position_10_0 -2.7209347397196174e-05
+  hidden translation_11 0.15831428648532916 0.10958231417419978 0
+  hidden rotation_11 0 0 1 1.2109195069897076
   hidden translation_15 -0.009914929144224236 0 0
   hidden translation_23 0.11670528100910499 0 0
   hidden translation_31 -0.010189143452364735 0 0
@@ -2272,12 +2275,12 @@ Cabinet {
   name "cabinet(3)"
 }
 Cabinet {
-  hidden position_6_0 1.9199396363651048e-05
-  hidden translation_7 -0.0007188636532639585 -1.2984086382727966e-06 0
-  hidden rotation_7 0 0 1 0.0036123880230112676
-  hidden position_10_0 -1.6322375501864883e-05
-  hidden translation_11 0.15823431333482046 0.10937019920192145 0
-  hidden rotation_11 0 0 1 1.2095793340074157
+  hidden position_6_0 3.2005331803784856e-05
+  hidden translation_7 -0.0007214120177301939 -1.307630677016558e-06 0
+  hidden rotation_7 0 0 1 0.0036251939585029693
+  hidden position_10_0 -2.7209347397401275e-05
+  hidden translation_11 0.15823366250443188 0.10936847651294201 0
+  hidden rotation_11 0 0 0.9999999999999999 1.2095684470355197
   hidden translation_15 -0.010696168391093736 0 0
   hidden translation_23 0.11635329088216945 0 0
   hidden translation_31 -0.01054113353230677 0 0
@@ -2322,15 +2325,15 @@ Desk {
   rotation 0 0 1 -1.5707953071795862
 }
 Laptop {
-  hidden position_0_0 9.874590432776002e-06
-  hidden translation_1 -0.10000981353284005 -0.013999999999999995 0.12999615207299717
-  hidden rotation_1 0.5773232432894903 -0.5774232400777726 -0.5773043171290086 2.0945089341629055
-  translation 16.270000005021913 4.450000554987579 0.7088661212566759
-  rotation 0.0012856141594497158 -0.0012614300580721528 0.9999983779939055 1.570801666368113
+  hidden position_0_0 6.253476128418171e-05
+  hidden translation_1 -0.10001591131502652 -0.013999999999999993 0.12999376062390253
+  hidden rotation_1 0.5773333765302479 -0.5774333716527311 -0.5772840493604011 2.0945393416361493
+  translation 16.270000004991182 4.450000560847733 0.7088661173240931
+  rotation 0.0012856492978507946 -0.00126146519872757 0.999998377904402 1.5708016645196898
 }
 OfficeChair {
-  hidden position_0_0 -6.620739046869772e-05
-  hidden rotation_1 0 0 -1 0.00013308842634748733
-  translation 16.229999999910472 5.179999992855857 -0.0014153365495491177
-  rotation -0.0007079074756762706 -0.0006975164935173668 -0.9999995061687518 1.5707958008814842
+  hidden position_0_0 -0.00040938921875000034
+  hidden rotation_1 0 0 -1 0.00047627025131260744
+  translation 16.229999999511683 5.179999950854137 -0.0014153359312135683
+  rotation -0.0007081365212431791 -0.000697287735595621 -0.9999995061661185 1.5707957993541979
 }

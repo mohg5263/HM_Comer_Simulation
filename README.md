@@ -36,7 +36,7 @@ This will bring up the simulation environment with the default settings.
 
 # Manipulating Parameters
 The world file is located at  `HM_Comer_Simulation/HM_COMER/worlds
-/HM_COMER.wbt` and we can manipulate the environment environmental factors such as lighting and door conditions as bellow:
+/HM_COMER.wbt` and we can manipulate the environmental factors such as lighting and door conditions as bellow:
 
 ## Lighting
 In the simulation, you have the ability to adjust the lighting conditions to enhance realism and visibility. This is achieved by modifying the `pointLightIntensity` parameter in the `HM_COMER.wbt` file. 
@@ -99,7 +99,11 @@ Door {
 
 ### In this example:
 
-- The `canBeOpen` property determines whether the door can be opened. Setting it to `FALSE` prevents the door from being opened during the simulation.
+- The `canBeOpen` property determines whether the door can be opened. Setting it to `FALSE` prevents the door from being opened during the simulation. 
+
+    > **Note**: The `canBeOpen` parameter is `TRUE` by default and may not appear in the world file. You can explicitly add `canBeOpen FALSE` to make the door unopenable.
+
+
   
 - The `position` value controls the angle of the door hinge. A value of `0` keeps the door closed, while `1.57` opens it to a 90-degree angle.
 
