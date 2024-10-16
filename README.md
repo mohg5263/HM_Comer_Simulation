@@ -17,12 +17,12 @@ To install and build this ROS2 package, follow these steps:
 
 2. Build the package:
    ```bash
+     source /opt/ros/humble/setup.bash
      colcon build
      ```
 
 3. Source the setup file:
    ```bash
-    source /opt/ros/humble/setup.bash
     source install/setup.bash
     ```
 
