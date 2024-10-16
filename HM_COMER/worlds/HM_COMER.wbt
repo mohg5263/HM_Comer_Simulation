@@ -36,8 +36,8 @@ EXTERNPROTO "https://raw.githubusercontent.com/cyberbotics/webots/R2023b/project
 WorldInfo {
 }
 Viewpoint {
-  orientation -0.2821964270612331 0.3451421869909519 0.8951212472693166 1.4803728715754347
-  position -18.02108048000393 -91.798889769111 62.84526003079058
+  orientation 0.1582264043442759 -0.20213870669208206 -0.9664907388201577 4.9216696934022846
+  position -22.620346146818893 -76.27068244179907 33.72087519679465
 }
 TexturedBackground {
 }
@@ -49,174 +49,217 @@ FloorLight {
 FloorLight {
   translation 5.54 8.44 0
   name "floor light(1)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 5.53 9.46 0
   name "floor light(22)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 14.19 5.16 0
   name "floor light(2)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -6.91 -7.01 0
   name "floor light(3)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -23.46 -7.01 0
   name "floor light(37)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -25.48 -13.65 0
   name "floor light(5)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -39.11 -2.15 0
   name "floor light(9)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -39.11 -13.65 0
   name "floor light(53)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -5.2 8.44 0
   name "floor light(6)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -5.56 2.12 0
   name "floor light(14)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 32.62 16.59 0
   name "floor light(15)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 25.34 5.82 0
   name "floor light(33)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 39.16 5.73 0
   name "floor light(34)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 32.52 5.73 0
   name "floor light(35)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 39.38 4.3 0
   name "floor light(30)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 24.73 16.17 0
   name "floor light(31)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 39.38 16.23 0
   name "floor light(32)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 25.35 -4.34 0
   name "floor light(23)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 39.45 -4.34 0
   name "floor light(28)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 25.31 -11.07 0
   name "floor light(24)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 39.45 -11.61 0
   name "floor light(27)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 28.05 -16.43 0
   name "floor light(25)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 36.37 -16.43 0
   name "floor light(29)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 25.32 4.16 0
   name "floor light(26)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 32.63 4.16 0
   name "floor light(52)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 20.18 8.34 0
   name "floor light(10)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -33.11 5.48 0
   name "floor light(11)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -24.71 9.75 0
   name "floor light(19)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -24.71 16 0
   name "floor light(47)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -20.33 7.68 0
   name "floor light(21)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -39.23 9.89 0
   name "floor light(20)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -13.88 8.44 0
   name "floor light(12)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -15.45 8.44 0
   name "floor light(38)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -18.65 8.44 0
   name "floor light(39)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -5.16 9.5 0
   name "floor light(13)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -39.3 5.49 0
   name "floor light(7)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -6.94 2.35 0
   name "floor light(8)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -25.62 2.35 0
   name "floor light(36)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 23.05 -7.17 0
   name "floor light(4)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 13.14 -7.17 0
   name "floor light(48)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 18.17 1.63 0
   name "floor light(51)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 7.37 1.55 0
   name "floor light(49)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 7.55 -7.17 0
   name "floor light(50)"
+  pointLightIntensity 1.5
 }
 StraightStairsLanding {
   translation 0.059941 16.09 0
@@ -1168,9 +1211,9 @@ Wall {
   }
 }
 Wall {
-  translation -15.16 9 0
+  translation -15.48 9 0
   name "wall(28)"
-  size 21 0.2 4.2
+  size 21.5 0.2 4.2
   appearance PorcelainChevronTiles {
   }
 }
@@ -1182,9 +1225,9 @@ Wall {
   }
 }
 Wall {
-  translation -29.95 9 0
+  translation -29.69 9 0
   name "wall(86)"
-  size 2.7 0.2 4.2
+  size 3.2 0.2 4.2
   appearance PorcelainChevronTiles {
   }
 }
@@ -1226,161 +1269,161 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -3.2939845343360474e-05
+    translation 0 0 -5.4892490687130646e-05
   }
 }
 Door {
-  hidden translation_5 0.9981137578089021 -0.4714833132702906 7.993605777301127e-15
-  hidden rotation_5 0 0 -1 1.1866766724725117
+  hidden translation_5 1.1242797041003483 -0.8213606229570708 7.549516567451064e-15
+  hidden rotation_5 0 0 -1 1.5660362420614946
   translation 28.6001 5.06001 0
   rotation 0 0 1 1.5708
   name "door(9)"
   size 0.2 2 4.2
-  position -1.190640430411129
+  position -1.57
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.0235442437734568 -0.5170191552365303 1.509903313490213e-14
-  hidden rotation_5 0 0 -1 1.2395620054741892
+  hidden translation_5 1.1242797041003483 -0.8213606229570699 1.554312234475219e-14
+  hidden rotation_5 0 0 -1 1.5660362420631753
   translation 35.9701 5.06001 0
   rotation 0 0 1 1.5708
   name "door(10)"
   size 0.2 2 4.2
-  position -1.2435257634110142
+  position -1.57
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.1241795521566158 -0.8207268650738921 1.1546319456101628e-14
-  hidden rotation_5 0 0 -0.9999999999999999 1.565385720004471
+  hidden translation_5 1.124172408780673 -0.8206817639730957 1.2212453270876722e-14
+  hidden rotation_5 0 0 -1 1.565339423337766
   translation 20.9301 3.90002 0
   rotation 0 0 1 -3.1415853071795863
   name "door(5)"
   size 0.2 2 4.2
-  position -1.5693494779438726
+  position -1.569303181277056
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.09089645170083785 0.009546987491427017 9.547918011776346e-15
-  hidden rotation_5 0 0 -1 0.09168799302198487
+  hidden translation_5 1.1242797041003452 -0.8213606229570716 9.769962616701378e-15
+  hidden rotation_5 0 0 -1 1.566036242060374
   translation 6.63006 3.9 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(6)"
   size 0.2 2 4.2
-  position -0.0956517509616098
+  position -1.57
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.14365686228501512 0.01129902392931914 1.2212453270876722e-14
-  hidden rotation_5 0 0 -1 0.14521608400546307
+  hidden translation_5 1.1242797041003467 -0.8213606229570714 1.2434497875801753e-14
+  hidden rotation_5 0 0 -1 1.5660362420605984
   translation 11.0601 5.67 0
   rotation 0 0 1 1.5708
   name "door(24)"
   size 0.2 2 4.2
-  position -0.14917984194486308
+  position -1.57
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.15113221669052096 0.004939378589970622 4.218847493575595e-15
-  hidden rotation_5 0 0 -1 0.20564807097103618
+  hidden translation_5 0.15199003203495717 0.0048787821063184245 4.884981308350689e-15
+  hidden rotation_5 0 0 -0.9999999999999999 0.20682330672134955
   translation 6.21006 16.12 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(17)"
   size 0.1 1.5 4.2
-  position -0.2686831770009147
+  position -0.2698584127512276
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 3.5857394766330986e-05 -0.00013230849126688593 7.105427357601002e-15
-  hidden rotation_5 0 0 1 0.0013299730298799387
+  hidden translation_5 0.0008878166581550856 -1.5327670155440565e-05 7.105427357601002e-15
+  hidden rotation_5 0 0 1 0.00015473727980257554
   translation -6.03994 16.12 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(20)"
   size 0.1 1.5 4.2
-  position -0.06170513299948664
+  position -0.06288036874980005
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.13627038435164218 0.00582861138503743 1.2434497875801753e-14
-  hidden rotation_5 0 0 -1 0.18530080201377355
+  hidden translation_5 0.13712925501743395 0.005785480439949864 1.199040866595169e-14
+  hidden rotation_5 0 0 -1 0.18647603776408897
   translation 6.21006 14.5 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(18)"
   size 0.1 1.5 4.2
-  position -0.24833590804368977
+  position -0.24951114379400308
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.07423787800659573 0.006274444425890091 1.865174681370263e-14
-  hidden rotation_5 0 0 -1 0.10049785208558411
+  hidden translation_5 0.07509731547018991 0.006304215975271088 1.865174681370263e-14
+  hidden rotation_5 0 0 -1 0.10167308783590559
   translation -6.03994 14.5 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(21)"
   size 0.1 1.5 4.2
-  position -0.16353295811548318
+  position -0.1647081938657966
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.06550147101994078 0.005914394097021103 7.105427357601002e-15
-  hidden rotation_5 0 0 -1 0.08854822862009035
+  hidden translation_5 0.06636049137288443 0.005954433230505929 6.8833827526759706e-15
+  hidden rotation_5 0 0 -0.9999999999999999 0.08972346437040558
   translation 6.21006 12.95 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(19)"
   size 0.1 1.5 4.2
-  position -0.15158333464999313
+  position -0.15275857040030633
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.11507734163797545 0.00657273990296714 1.021405182655144e-14
-  hidden rotation_5 0 0 -1 0.15631893701183786
+  hidden translation_5 0.11593710146569475 0.0065545152597138445 1.0436096431476471e-14
+  hidden rotation_5 0 0 -1 0.15749417276215416
   translation -6.03994 12.95 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(22)"
   size 0.1 1.5 4.2
-  position -0.2193540430417183
+  position -0.2205292787920315
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.6058820179532778 -0.1003585959338279 8.43769498715119e-15
-  hidden rotation_5 0 0 -1 0.6321276687932448
+  hidden translation_5 0.8182536405011488 -0.24956008384087502 9.325873406851315e-15
+  hidden rotation_5 0 0 -1 0.896036242060374
   translation 5.03006 10.97 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(16)"
   size 0.2 2 4.2
-  position -0.6360914267328702
+  position -0.9
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.22619808322787105 0.00837167546782358 1.687538997430238e-14
-  hidden rotation_5 0 0 -1 0.22897927787172098
+  hidden translation_5 -0.8135717778612088 -0.7643927140163805 1.687538997430238e-14
+  hidden rotation_5 0 0 1 1.2039637579385047
   translation -4.61994 10.85 0
   rotation 0 0 -1 -5.307179586466759e-06
   name "door(23)"
   size 0.2 2 4.2
-  position -0.2329430358104498
+  position 1.2
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
@@ -1396,7 +1439,7 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -3.2939845343360474e-05
+    translation 0 0 -5.4892490687130646e-05
   }
 }
 Door {
@@ -1410,7 +1453,7 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -3.2939845343360474e-05
+    translation 0 0 -5.4892490687130646e-05
   }
 }
 Door {
@@ -1424,29 +1467,29 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -5.4925122670246296e-05
+    translation 0 0 -7.687776801401647e-05
   }
 }
 Door {
-  hidden translation_5 0.26317853195921725 0.004804378385581232 6.217248937900877e-15
-  hidden rotation_5 0 0 -1 0.26664892610288243
+  hidden translation_5 1.1242797041003465 -0.8213606229570715 7.105427357601002e-15
+  hidden rotation_5 0 0 -0.9999999999999999 1.5660362420612706
   translation -16.3899 3.06 0
   rotation 0 0 -1 1.5708
   name "door(3)"
   size 0.2 2 4.2
-  position -0.27061268404183647
+  position -1.57
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.003060485778159372 0.0003126571311621307 1.7763568394002505e-15
-  hidden rotation_5 0 0 -0.9999999999999999 0.0021129791719218076
+  hidden translation_5 1.124881038178638 -0.8252236287001918 3.1086244689504383e-15
+  hidden rotation_5 0 0 -1 1.57
   translation -26.1999 4.58 0
   rotation 0 0 1 3.14159
   name "door(4)"
   size 0.2 2 4.2
-  position -0.0021129791718343463
+  position -1.57
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
@@ -1462,41 +1505,41 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -3.2939845343360474e-05
+    translation 0 0 -5.4892490687130646e-05
   }
 }
 Door {
-  hidden translation_5 0.0030604857781594552 0.00031265713116290783 0
-  hidden rotation_5 0 0 -1 0.0021129791715014633
+  hidden translation_5 1.1137470126130526 -0.7651960541853045 4.440892098500626e-16
+  hidden rotation_5 0 0 -1 1.5080918878303613
   translation -22.6499 6.09 0
   rotation 0 0 -1 -1.5707953071795862
   name "door(7)"
   size 0.2 2 4.2
-  position 0.005978908658846815
+  position -1.5
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 0.0004869739924848182 -7.853903297572185e-05 -2.220446049250313e-15
-  hidden rotation_5 0 0 1 0.0005262017020829399
+  hidden translation_5 1.1253531754667554 -0.8283296788477044 -2.220446049250313e-15
+  hidden rotation_5 0 0 1 4.710000000000342
   translation -9.6099 6.09 0
   rotation 0 0 -1 -1.5707953071795862
   name "door(15)"
   size 0.2 2 4.2
-  position -1.5694737982980882
+  position 3.14
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
 }
 Door {
-  hidden translation_5 1.062250128590045 -0.30640011000879896 4.440892098500626e-15
-  hidden rotation_5 0 0 -1 0.7634964872889883
+  hidden translation_5 1.1160161645410502 -0.775905123507916 -2.220446049250313e-16
+  hidden rotation_5 0 0 -1 1.519190616958663
   translation -27.1399 9.01 0
-  rotation 0 0 -1 -1.5707953071795862
+  rotation 0 0 1 1.57
   name "door(14)"
-  size 0.2 3 4.2
-  position -1.0860042240096008
+  size 0.2 2 4.2
+  position -2.61
   frameHeight 3.5
   wallAppearance PorcelainChevronTiles {
   }
@@ -1512,7 +1555,7 @@ Door {
   wallAppearance RedBricks {
   }
   doorHandle DoorLever {
-    translation 0 0 -3.2939845343360474e-05
+    translation 0 0 -5.4892490687130646e-05
   }
 }
 Door {
@@ -1526,7 +1569,7 @@ Door {
   wallAppearance PorcelainChevronTiles {
   }
   doorHandle DoorLever {
-    translation 0 0 -3.2939845343360474e-05
+    translation 0 0 -5.4892490687130646e-05
   }
 }
 StraightStairs {
@@ -2123,42 +2166,52 @@ Chair {
 FloorLight {
   translation 5.9 -7.98 0
   name "floor light(16)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -5.56 -7.76 0
   name "floor light(17)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 6 0.77 0
   name "floor light(18)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 6.27 5.25 0
   name "floor light(40)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 4.66 8.51 0
   name "floor light(45)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 4.24 16.51 0
   name "floor light(41)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -4.28 8.51 0
   name "floor light(46)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -3.88 15.99 0
   name "floor light(42)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation -2.74 16.52 2.1
   name "floor light(43)"
+  pointLightIntensity 1.5
 }
 FloorLight {
   translation 2.73 16.52 2.14
   name "floor light(44)"
+  pointLightIntensity 1.5
 }
 Ramp30deg {
   translation 27.34 0.71003 0
@@ -2175,12 +2228,12 @@ Ramp30deg {
   name "ramp 30 degrees(2)"
 }
 Cabinet {
-  hidden position_6_0 6.39979878786576e-06
-  hidden translation_7 -0.0027486495675318467 -1.8983504569525245e-05 0
-  hidden rotation_7 0 0 1 0.0138127486074285
-  hidden position_10_0 -5.440791833748307e-06
-  hidden translation_11 0.15872308773432506 0.11068031623070083 0
-  hidden rotation_11 0 0 1 1.2178461204163318
+  hidden position_6_0 1.9199396363602296e-05
+  hidden translation_7 -0.0027511964442429736 -1.9018702477419103e-05 0
+  hidden rotation_7 0 0 0.9999999999999999 0.013825548204925783
+  hidden position_10_0 -1.6322375501252787e-05
+  hidden translation_11 0.158722451482172 0.11067858907560338 0
+  hidden rotation_11 0 0 1 1.2178352388326636
   hidden translation_15 -0.008916643309268354 0 0
   hidden translation_23 0.1179376927622068 0 0
   hidden translation_31 -0.008956511524617967 0 0
@@ -2189,12 +2242,12 @@ Cabinet {
   rotation 0 0 1 -1.5707953071795862
 }
 Cabinet {
-  hidden position_6_0 6.399798787895671e-06
-  hidden translation_7 -0.00019107413808044953 -9.173199688738976e-08 0
-  hidden rotation_7 0 0 0.9999999999999999 0.0009601716953430572
-  hidden position_10_0 -5.440791833570312e-06
-  hidden translation_11 0.15843416297390575 0.10990189030223824 0
-  hidden rotation_11 0 0 1 1.2129373607165275
+  hidden position_6_0 1.9199396363662117e-05
+  hidden translation_7 -0.00019362125680817303 -9.41939700960237e-08 0
+  hidden rotation_7 0 0 0.9999999999999999 0.0009729712931187554
+  hidden position_10_0 -1.6322375501480235e-05
+  hidden translation_11 0.1584335182512629 0.1099001662911458 0
+  hidden rotation_11 0 0 0.9999999999999999 1.2129264791328598
   hidden translation_15 -0.009083566679636963 0 0
   hidden translation_23 0.1178850504094856 0 0
   hidden translation_31 -0.009009374188616156 0 0
@@ -2204,12 +2257,12 @@ Cabinet {
   name "cabinet(1)"
 }
 Cabinet {
-  hidden position_6_0 6.399798787882974e-06
-  hidden translation_7 -0.0005298184745614853 -7.052967677390054e-07 0
-  hidden rotation_7 0 0 1 0.0026624075396185953
-  hidden position_10_0 -5.440791833954961e-06
-  hidden translation_11 0.15831558315029753 0.10958576046165497 0
-  hidden rotation_11 0 0 1 1.2109412755452718
+  hidden position_6_0 1.919939636361846e-05
+  hidden translation_7 -0.0005323655854080721 -7.120945320349126e-07 0
+  hidden rotation_7 0 0 1 0.002675207137184766
+  hidden position_10_0 -1.6322375501864883e-05
+  hidden translation_11 0.15831493498766835 0.10958403774091752 0
+  hidden rotation_11 0 0 1 1.2109303939616032
   hidden translation_15 -0.009914929144224236 0 0
   hidden translation_23 0.11670528100910499 0 0
   hidden translation_31 -0.010189143452364735 0 0
@@ -2219,12 +2272,12 @@ Cabinet {
   name "cabinet(3)"
 }
 Cabinet {
-  hidden position_6_0 6.3997987878988435e-06
-  hidden translation_7 -0.000716316549906676 -1.2892237737094359e-06 0
-  hidden rotation_7 0 0 1 0.003599588425465858
-  hidden position_10_0 -5.440791833954961e-06
-  hidden translation_11 0.15823496382435634 0.10937192104538032 0
-  hidden rotation_11 0 0 1 1.2095902155910832
+  hidden position_6_0 1.9199396363651048e-05
+  hidden translation_7 -0.0007188636532639585 -1.2984086382727966e-06 0
+  hidden rotation_7 0 0 1 0.0036123880230112676
+  hidden position_10_0 -1.6322375501864883e-05
+  hidden translation_11 0.15823431333482046 0.10937019920192145 0
+  hidden rotation_11 0 0 1 1.2095793340074157
   hidden translation_15 -0.010696168391093736 0 0
   hidden translation_23 0.11635329088216945 0 0
   hidden translation_31 -0.01054113353230677 0 0
@@ -2269,15 +2322,15 @@ Desk {
   rotation 0 0 1 -1.5707953071795862
 }
 Laptop {
-  hidden position_0_0 3.2915152900784005e-06
-  hidden translation_1 -0.1000090512370858 -0.014000000000000004 0.12999645100670285
-  hidden rotation_1 0.5773219764903118 -0.577421973486834 -0.5773068508132307 2.0945051329464963
-  translation 16.27000000502193 4.4500005549854995 0.7088661217694393
-  rotation 0.0012856097409820247 -0.0012614256389430764 0.9999983780051601 1.5708016663566253
+  hidden position_0_0 9.874590432776002e-06
+  hidden translation_1 -0.10000981353284005 -0.013999999999999995 0.12999615207299717
+  hidden rotation_1 0.5773232432894903 -0.5774232400777726 -0.5773043171290086 2.0945089341629055
+  translation 16.270000005021913 4.450000554987579 0.7088661212566759
+  rotation 0.0012856141594497158 -0.0012614300580721528 0.9999983779939055 1.570801666368113
 }
 OfficeChair {
-  hidden position_0_0 -2.2072519826110693e-05
-  hidden rotation_1 0 0 -1 8.895356728929894e-05
-  translation 16.229999999924427 5.179999992855881 -0.0014153366021125713
-  rotation -0.0007078780017380643 -0.0006975458953045767 -0.9999995061691073 1.5707958010162892
+  hidden position_0_0 -6.620739046869772e-05
+  hidden rotation_1 0 0 -1 0.00013308842634748733
+  translation 16.229999999910472 5.179999992855857 -0.0014153365495491177
+  rotation -0.0007079074756762706 -0.0006975164935173668 -0.9999995061687518 1.5707958008814842
 }
