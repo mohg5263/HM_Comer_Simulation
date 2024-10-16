@@ -22,6 +22,7 @@ To install and build this ROS2 package, follow these steps:
 
 3. Source the setup file:
    ```bash
+    source /opt/ros/humble/setup.bash
     source install/setup.bash
     ```
 
