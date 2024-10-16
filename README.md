@@ -12,7 +12,7 @@ To install and build this ROS2 package, follow these steps:
    ```bash
    git clone https://github.com/mohg5263/HM_Comer_Simulation
 
-   cd HM_COMER
+   cd HM_Comer_Simulation
     ```
 
 2. Build the package:
@@ -29,7 +29,7 @@ To install and build this ROS2 package, follow these steps:
 The simulation can be launched using the following command:
 
 ```bash
-ros2 launch HM_COMER HM_COMER_Simulation.py
+ros2 launch HM_COMER HM_COMER.py
 ```
 
 This will bring up the simulation environment with the default settings.
