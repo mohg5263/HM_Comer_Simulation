@@ -39,22 +39,26 @@ The world file is located at  `HM_Comer_Simulation/HM_COMER/worlds
 /HM_COMER.wbt` and we can manipulate the environment environmental factors such as lighting and door conditions as bellow:
 
 ## Lighting
-You can adjust the lighting conditions in the simulation by changing the `pointLightIntensity` parameter in the ``HM_COMER.wbt`` file. To modify the lighting:
+In the simulation, you have the ability to adjust the lighting conditions to enhance realism and visibility. This is achieved by modifying the `pointLightIntensity` parameter in the `HM_COMER.wbt` file. 
 
-1. Open the `HM_COMER.wbt` launch file in the `worlds/` directory.
 
-2. Locate the section where `FloorLight` object are defined.
+1. Navigate to the `worlds/` directory and open the `HM_COMER.wbt` file using a text editor.
 
-3. Adjust the `pointLightIntensity` values as needed.
 
-Example of modifying light intensity:
+2. Within the world file, find the section where the `FloorLight` objects are defined. These objects represent the light sources in your simulation.
+
+
+3. Adjust the `pointLightIntensity` values to control the brightness of each light source as needed. Higher values will result in brighter lighting, while lower values will dim the lights.
+
+
+Here is an example of how to change the light intensity for a `FloorLight` object:
 
 ```bash
 FloorLight {
-  translation 5.54 8.44 0
-  name "floor light(1)"
-  #Change  the following line to modify light intensity of each light bulb
-  pointLightIntensity 1.5   
+    translation 5.54 8.44 0
+    name "floor light(1)"
+    # Change the following line to modify the light intensity of each light bulb
+    pointLightIntensity 1.5   
 }
 ```
 
